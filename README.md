@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/bWlCK.gif" alt="GIF Animado 1" width="300" height="300">
+  <img src="https://tenor.com/bTzdy.gif" alt="GIF Animado 1" width="300" height="300">
 </p>
 
 # Meu Perfil
